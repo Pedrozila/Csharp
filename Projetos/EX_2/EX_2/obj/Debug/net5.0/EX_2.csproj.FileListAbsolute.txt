@@ -1,0 +1,16 @@
+C:\Users\Caixa03\source\repos\EX_2\EX_2\bin\Debug\net5.0\EX_2.exe
+C:\Users\Caixa03\source\repos\EX_2\EX_2\bin\Debug\net5.0\EX_2.deps.json
+C:\Users\Caixa03\source\repos\EX_2\EX_2\bin\Debug\net5.0\EX_2.runtimeconfig.json
+C:\Users\Caixa03\source\repos\EX_2\EX_2\bin\Debug\net5.0\EX_2.runtimeconfig.dev.json
+C:\Users\Caixa03\source\repos\EX_2\EX_2\bin\Debug\net5.0\EX_2.dll
+C:\Users\Caixa03\source\repos\EX_2\EX_2\bin\Debug\net5.0\ref\EX_2.dll
+C:\Users\Caixa03\source\repos\EX_2\EX_2\bin\Debug\net5.0\EX_2.pdb
+C:\Users\Caixa03\source\repos\EX_2\EX_2\obj\Debug\net5.0\EX_2.csproj.AssemblyReference.cache
+C:\Users\Caixa03\source\repos\EX_2\EX_2\obj\Debug\net5.0\EX_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Caixa03\source\repos\EX_2\EX_2\obj\Debug\net5.0\EX_2.AssemblyInfoInputs.cache
+C:\Users\Caixa03\source\repos\EX_2\EX_2\obj\Debug\net5.0\EX_2.AssemblyInfo.cs
+C:\Users\Caixa03\source\repos\EX_2\EX_2\obj\Debug\net5.0\EX_2.csproj.CoreCompileInputs.cache
+C:\Users\Caixa03\source\repos\EX_2\EX_2\obj\Debug\net5.0\EX_2.dll
+C:\Users\Caixa03\source\repos\EX_2\EX_2\obj\Debug\net5.0\ref\EX_2.dll
+C:\Users\Caixa03\source\repos\EX_2\EX_2\obj\Debug\net5.0\EX_2.pdb
+C:\Users\Caixa03\source\repos\EX_2\EX_2\obj\Debug\net5.0\EX_2.genruntimeconfig.cache
