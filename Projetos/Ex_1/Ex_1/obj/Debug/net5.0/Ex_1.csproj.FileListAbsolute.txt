@@ -1,0 +1,16 @@
+C:\Users\pedro\OneDrive\Udemy Cursos\C#\Projetos\Ex_1\Ex_1\bin\Debug\net5.0\Ex_1.exe
+C:\Users\pedro\OneDrive\Udemy Cursos\C#\Projetos\Ex_1\Ex_1\bin\Debug\net5.0\Ex_1.deps.json
+C:\Users\pedro\OneDrive\Udemy Cursos\C#\Projetos\Ex_1\Ex_1\bin\Debug\net5.0\Ex_1.runtimeconfig.json
+C:\Users\pedro\OneDrive\Udemy Cursos\C#\Projetos\Ex_1\Ex_1\bin\Debug\net5.0\Ex_1.runtimeconfig.dev.json
+C:\Users\pedro\OneDrive\Udemy Cursos\C#\Projetos\Ex_1\Ex_1\bin\Debug\net5.0\Ex_1.dll
+C:\Users\pedro\OneDrive\Udemy Cursos\C#\Projetos\Ex_1\Ex_1\bin\Debug\net5.0\ref\Ex_1.dll
+C:\Users\pedro\OneDrive\Udemy Cursos\C#\Projetos\Ex_1\Ex_1\bin\Debug\net5.0\Ex_1.pdb
+C:\Users\pedro\OneDrive\Udemy Cursos\C#\Projetos\Ex_1\Ex_1\obj\Debug\net5.0\Ex_1.csproj.AssemblyReference.cache
+C:\Users\pedro\OneDrive\Udemy Cursos\C#\Projetos\Ex_1\Ex_1\obj\Debug\net5.0\Ex_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro\OneDrive\Udemy Cursos\C#\Projetos\Ex_1\Ex_1\obj\Debug\net5.0\Ex_1.AssemblyInfoInputs.cache
+C:\Users\pedro\OneDrive\Udemy Cursos\C#\Projetos\Ex_1\Ex_1\obj\Debug\net5.0\Ex_1.AssemblyInfo.cs
+C:\Users\pedro\OneDrive\Udemy Cursos\C#\Projetos\Ex_1\Ex_1\obj\Debug\net5.0\Ex_1.csproj.CoreCompileInputs.cache
+C:\Users\pedro\OneDrive\Udemy Cursos\C#\Projetos\Ex_1\Ex_1\obj\Debug\net5.0\Ex_1.dll
+C:\Users\pedro\OneDrive\Udemy Cursos\C#\Projetos\Ex_1\Ex_1\obj\Debug\net5.0\ref\Ex_1.dll
+C:\Users\pedro\OneDrive\Udemy Cursos\C#\Projetos\Ex_1\Ex_1\obj\Debug\net5.0\Ex_1.pdb
+C:\Users\pedro\OneDrive\Udemy Cursos\C#\Projetos\Ex_1\Ex_1\obj\Debug\net5.0\Ex_1.genruntimeconfig.cache
