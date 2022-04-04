@@ -1,0 +1,16 @@
+C:\Users\Caixa03\OneDrive\Estudo\Udemy Cursos\C#\Projetos\programa_produto\programa_produto\obj\Debug\net5.0\programa_produto.csproj.AssemblyReference.cache
+C:\Users\Caixa03\OneDrive\Estudo\Udemy Cursos\C#\Projetos\programa_produto\programa_produto\obj\Debug\net5.0\programa_produto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Caixa03\OneDrive\Estudo\Udemy Cursos\C#\Projetos\programa_produto\programa_produto\obj\Debug\net5.0\programa_produto.AssemblyInfoInputs.cache
+C:\Users\Caixa03\OneDrive\Estudo\Udemy Cursos\C#\Projetos\programa_produto\programa_produto\obj\Debug\net5.0\programa_produto.AssemblyInfo.cs
+C:\Users\Caixa03\OneDrive\Estudo\Udemy Cursos\C#\Projetos\programa_produto\programa_produto\obj\Debug\net5.0\programa_produto.csproj.CoreCompileInputs.cache
+C:\Users\Caixa03\OneDrive\Estudo\Udemy Cursos\C#\Projetos\programa_produto\programa_produto\bin\Debug\net5.0\programa_produto.exe
+C:\Users\Caixa03\OneDrive\Estudo\Udemy Cursos\C#\Projetos\programa_produto\programa_produto\bin\Debug\net5.0\programa_produto.deps.json
+C:\Users\Caixa03\OneDrive\Estudo\Udemy Cursos\C#\Projetos\programa_produto\programa_produto\bin\Debug\net5.0\programa_produto.runtimeconfig.json
+C:\Users\Caixa03\OneDrive\Estudo\Udemy Cursos\C#\Projetos\programa_produto\programa_produto\bin\Debug\net5.0\programa_produto.runtimeconfig.dev.json
+C:\Users\Caixa03\OneDrive\Estudo\Udemy Cursos\C#\Projetos\programa_produto\programa_produto\bin\Debug\net5.0\programa_produto.dll
+C:\Users\Caixa03\OneDrive\Estudo\Udemy Cursos\C#\Projetos\programa_produto\programa_produto\bin\Debug\net5.0\ref\programa_produto.dll
+C:\Users\Caixa03\OneDrive\Estudo\Udemy Cursos\C#\Projetos\programa_produto\programa_produto\bin\Debug\net5.0\programa_produto.pdb
+C:\Users\Caixa03\OneDrive\Estudo\Udemy Cursos\C#\Projetos\programa_produto\programa_produto\obj\Debug\net5.0\programa_produto.dll
+C:\Users\Caixa03\OneDrive\Estudo\Udemy Cursos\C#\Projetos\programa_produto\programa_produto\obj\Debug\net5.0\ref\programa_produto.dll
+C:\Users\Caixa03\OneDrive\Estudo\Udemy Cursos\C#\Projetos\programa_produto\programa_produto\obj\Debug\net5.0\programa_produto.pdb
+C:\Users\Caixa03\OneDrive\Estudo\Udemy Cursos\C#\Projetos\programa_produto\programa_produto\obj\Debug\net5.0\programa_produto.genruntimeconfig.cache
